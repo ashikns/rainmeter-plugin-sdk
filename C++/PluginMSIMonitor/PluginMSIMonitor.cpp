@@ -9,6 +9,7 @@
 #include <wrl/wrappers/corewrappers.h>
 #include <memory>
 #include <thread>
+#include <functional>
 
 // Overview: This is a blank canvas on which to build your plugin.
 
